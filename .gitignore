@@ -5,7 +5,10 @@ Release/
 TestResults/
 packages/
 Ignored/
+.vs/
 
+storage.ide
+*.nupkg
 *.exe
 *.dll
 *.suo
@@ -18,3 +21,6 @@ Ignored/
 *.obproj.vspscc
 *.obproj.map
 *.cache
+
+publish.bat
+*.pfx
